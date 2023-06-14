@@ -1,0 +1,17 @@
+[
+    {
+    "title": "I am First One",
+    "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "thumbnail":"https://static.toiimg.com/thumb/msid-75967141,width-400,resizemode-4/75967141.jpg"
+},
+{
+    "title": "I am second one",
+    "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "thumbnail":"https://static.toiimg.com/thumb/msid-75967141,width-400,resizemode-4/75967142.jpg"
+},
+{
+    "title": "I am Third One",
+    "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    "thumbnail":"https://static.toiimg.com/thumb/msid-75967141,width-400,resizemode-4/75967142.jpg"
+}
+]
